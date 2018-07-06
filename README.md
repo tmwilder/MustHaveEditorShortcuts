@@ -11,8 +11,7 @@ This can have a non-linear boost beyond just saving search time because it preve
 
 ## Use
 
-Open up the repo, figure out how to keyboard shortcut the following in your editor. It's important to keyboard shortcut
-rather than menu select to really realize the benefits.
+Figure out how to keyboard shortcut the following in your editor. It's important to keyboard shortcut rather than menu select to really realize the benefits.
 
 ## Shortcuts
 
