@@ -19,6 +19,6 @@ rather than menu select to really realize the benefits.
 1. Fuzzy file find: Find a file based on a partial string match by starting to type in characters.
 2. Fuzzy symbol match: (1) but for functions, classnames, etc...
 3. Go to definition: You should be able to hit this and go to where a function, variable, class, etc... is defined.
-4. Cursor stack back: Go to prior cursor location.
-5. Cursor stack foward: Undo go to prior cursor location. Very synergistic with 4) since you can now move up and down a method call chain.
+4. Cursor stack back: Go to prior cursor location. Most common use case is 3 to look at something, then this to go back.
+5. Cursor stack foward: Undo go to prior cursor location. Very synergistic with 3/4 since you can now move up and down a method call chain.
 6. Full repository text scan.
